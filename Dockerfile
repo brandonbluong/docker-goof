@@ -1,1 +1,1 @@
-FROM node:14.20.0-bullseye-slim
+FROM node:14.21.2-bullseye-slim
